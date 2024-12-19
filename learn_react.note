@@ -1,0 +1,11 @@
+1=>  vite and parsel => it is a bundalar it combine mulipal js files together into one file. 
+        If i use without any framwork...
+
+2 => react is a libreri..we get react-dom ,react-netive.
+    if we work on web then we need react dom .
+    if we work on mobile then we need react netive.
+
+3 => npm => node package manager. it is a package insttaler of libreris of react.
+    npm => node package excuter. if we don't need to insttal the package . we can directlly execute..
+
+4 => to start => npx creat-react-app.. where creat-react-app is utility also the name of our project...
